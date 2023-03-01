@@ -1,0 +1,11 @@
+/home/spyman/Desktop/learn_stream/build/linux/x64/debug/bundle/learn_stream
+/home/spyman/Desktop/learn_stream/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/spyman/Desktop/learn_stream/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/spyman/Desktop/learn_stream/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/spyman/Desktop/learn_stream/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/spyman/Desktop/learn_stream/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/spyman/Desktop/learn_stream/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/spyman/Desktop/learn_stream/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/spyman/Desktop/learn_stream/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/spyman/Desktop/learn_stream/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/spyman/Desktop/learn_stream/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf

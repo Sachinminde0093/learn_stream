@@ -1,0 +1,4 @@
+#Wed Mar 01 11:51:17 IST 2023
+base.0=/home/spyman/Desktop/learn_stream/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

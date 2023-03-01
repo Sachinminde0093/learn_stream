@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "687278476664",
+    "project_id": "learnstream-deabb",
+    "storage_bucket": "learnstream-deabb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687278476664:android:929777e72cceae1c83cc8d",
+        "android_client_info": {
+          "package_name": "com.example.learn_stream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687278476664-btsg9gg2cou4sl1jjc12ht7maaudlu60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl7QzV5K3uCKgwN6a-XFCNqi6BRO9h6vU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687278476664-btsg9gg2cou4sl1jjc12ht7maaudlu60.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "687278476664-8ki8anddiiajvr9g1mtvrfu746b90ma9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.learnStream"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

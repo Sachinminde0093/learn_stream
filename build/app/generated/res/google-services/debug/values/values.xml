@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">687278476664-btsg9gg2cou4sl1jjc12ht7maaudlu60.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">687278476664</string>
+    <string name="google_api_key" translatable="false">AIzaSyCl7QzV5K3uCKgwN6a-XFCNqi6BRO9h6vU</string>
+    <string name="google_app_id" translatable="false">1:687278476664:android:929777e72cceae1c83cc8d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCl7QzV5K3uCKgwN6a-XFCNqi6BRO9h6vU</string>
+    <string name="google_storage_bucket" translatable="false">learnstream-deabb.appspot.com</string>
+    <string name="project_id" translatable="false">learnstream-deabb</string>
+</resources>
