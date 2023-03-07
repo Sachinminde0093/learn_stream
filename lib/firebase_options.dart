@@ -17,7 +17,10 @@ import 'package:flutter/foundation.dart'
 class DefaultFirebaseOptions {
   static FirebaseOptions get currentPlatform {
     if (kIsWeb) {
-      return web;
+      throw UnsupportedError(
+        'DefaultFirebaseOptions have not been configured for web - '
+        'you can reconfigure this by running the FlutterFire CLI again.',
+      );
     }
     switch (defaultTargetPlatform) {
       case TargetPlatform.android:
@@ -25,7 +28,10 @@ class DefaultFirebaseOptions {
       case TargetPlatform.iOS:
         return ios;
       case TargetPlatform.macOS:
-        return macos;
+        throw UnsupportedError(
+          'DefaultFirebaseOptions have not been configured for macos - '
+          'you can reconfigure this by running the FlutterFire CLI again.',
+        );
       case TargetPlatform.windows:
         throw UnsupportedError(
           'DefaultFirebaseOptions have not been configured for windows - '
@@ -43,16 +49,6 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBda9VMiMRG4PcNvFw0YQ5TZmBEoIEZF8E',
-    appId: '1:687278476664:web:eec92912fe26347483cc8d',
-    messagingSenderId: '687278476664',
-    projectId: 'learnstream-deabb',
-    authDomain: 'learnstream-deabb.firebaseapp.com',
-    storageBucket: 'learnstream-deabb.appspot.com',
-    measurementId: 'G-JJ743CR479',
-  );
-
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyCl7QzV5K3uCKgwN6a-XFCNqi6BRO9h6vU',
     appId: '1:687278476664:android:929777e72cceae1c83cc8d',
@@ -67,16 +63,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '687278476664',
     projectId: 'learnstream-deabb',
     storageBucket: 'learnstream-deabb.appspot.com',
-    iosClientId: '687278476664-8ki8anddiiajvr9g1mtvrfu746b90ma9.apps.googleusercontent.com',
-    iosBundleId: 'com.example.learnStream',
-  );
-
-  static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDKlSM66NSLd0zBGHQQ4sT2RTx3N0mU9XY',
-    appId: '1:687278476664:ios:e3e1936a8c1c821583cc8d',
-    messagingSenderId: '687278476664',
-    projectId: 'learnstream-deabb',
-    storageBucket: 'learnstream-deabb.appspot.com',
+    androidClientId: '687278476664-2h46jd7sljvoho2mdvm0qh3cpq4lrvni.apps.googleusercontent.com',
     iosClientId: '687278476664-8ki8anddiiajvr9g1mtvrfu746b90ma9.apps.googleusercontent.com',
     iosBundleId: 'com.example.learnStream',
   );

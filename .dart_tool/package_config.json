@@ -50,6 +50,24 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "firebase_app_check",
+      "rootUri": "file:///home/spyman/.pub-cache/hosted/pub.dev/firebase_app_check-0.1.1+12",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_app_check_platform_interface",
+      "rootUri": "file:///home/spyman/.pub-cache/hosted/pub.dev/firebase_app_check_platform_interface-0.0.5+15",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_app_check_web",
+      "rootUri": "file:///home/spyman/.pub-cache/hosted/pub.dev/firebase_app_check_web-0.0.7+15",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
       "name": "firebase_auth",
       "rootUri": "file:///home/spyman/.pub-cache/hosted/pub.dev/firebase_auth-4.2.9",
       "packageUri": "lib/",
@@ -82,6 +100,12 @@
     {
       "name": "firebase_core_web",
       "rootUri": "file:///home/spyman/.pub-cache/hosted/pub.dev/firebase_core_web-2.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "fl_country_code_picker",
+      "rootUri": "file:///home/spyman/.pub-cache/hosted/pub.dev/fl_country_code_picker-0.0.4",
       "packageUri": "lib/",
       "languageVersion": "2.16"
     },
@@ -152,6 +176,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "nested",
+      "rootUri": "file:///home/spyman/.pub-cache/hosted/pub.dev/nested-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "path",
       "rootUri": "file:///home/spyman/.pub-cache/hosted/pub.dev/path-1.8.2",
       "packageUri": "lib/",
@@ -162,6 +192,18 @@
       "rootUri": "file:///home/spyman/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.4",
       "packageUri": "lib/",
       "languageVersion": "2.17"
+    },
+    {
+      "name": "provider",
+      "rootUri": "file:///home/spyman/.pub-cache/hosted/pub.dev/provider-6.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "scrollable_positioned_list",
+      "rootUri": "file:///home/spyman/.pub-cache/hosted/pub.dev/scrollable_positioned_list-0.3.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "sky_engine",
@@ -224,7 +266,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-02-27T14:50:15.327786Z",
+  "generated": "2023-03-07T10:14:15.153788Z",
   "generator": "pub",
   "generatorVersion": "2.19.2"
 }

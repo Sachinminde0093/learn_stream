@@ -1,22 +1,36 @@
 -- Merging decision tree log ---
 application
 INJECTED from /home/spyman/Desktop/learn_stream/android/app/src/main/AndroidManifest.xml:3:4-33:19
+MERGED from [:firebase_app_check] /home/spyman/Desktop/learn_stream/build/firebase_app_check/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_app_check] /home/spyman/Desktop/learn_stream/build/firebase_app_check/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
 MERGED from [:firebase_auth] /home/spyman/Desktop/learn_stream/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
 MERGED from [:firebase_auth] /home/spyman/Desktop/learn_stream/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
 MERGED from [:firebase_core] /home/spyman/Desktop/learn_stream/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
 MERGED from [:firebase_core] /home/spyman/Desktop/learn_stream/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
 MERGED from [androidx.window:window:1.0.0-beta04] /home/spyman/.gradle/caches/transforms-3/fa8aad42c825af1f34f93ab9a34c8ecb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.window:window:1.0.0-beta04] /home/spyman/.gradle/caches/transforms-3/fa8aad42c825af1f34f93ab9a34c8ecb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.firebase:firebase-appcheck-safetynet:16.1.1] /home/spyman/.gradle/caches/transforms-3/2c46b04d3544d29afa6e18083cfb8ab3/transformed/jetified-firebase-appcheck-safetynet-16.1.1/AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-appcheck-safetynet:16.1.1] /home/spyman/.gradle/caches/transforms-3/2c46b04d3544d29afa6e18083cfb8ab3/transformed/jetified-firebase-appcheck-safetynet-16.1.1/AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-appcheck-debug:16.1.1] /home/spyman/.gradle/caches/transforms-3/16c707e2ab67f7eca6256f774449548b/transformed/jetified-firebase-appcheck-debug-16.1.1/AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-appcheck-debug:16.1.1] /home/spyman/.gradle/caches/transforms-3/16c707e2ab67f7eca6256f774449548b/transformed/jetified-firebase-appcheck-debug-16.1.1/AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-appcheck-playintegrity:16.1.1] /home/spyman/.gradle/caches/transforms-3/8e5b72fffe01b9631e4ef01aabfcbcfa/transformed/jetified-firebase-appcheck-playintegrity-16.1.1/AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-appcheck-playintegrity:16.1.1] /home/spyman/.gradle/caches/transforms-3/8e5b72fffe01b9631e4ef01aabfcbcfa/transformed/jetified-firebase-appcheck-playintegrity-16.1.1/AndroidManifest.xml:23:5-31:19
 MERGED from [com.google.firebase:firebase-auth:21.1.0] /home/spyman/.gradle/caches/transforms-3/873b6a3b46f87d14a5a2960c486caa17/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:26:5-71:19
 MERGED from [com.google.firebase:firebase-auth:21.1.0] /home/spyman/.gradle/caches/transforms-3/873b6a3b46f87d14a5a2960c486caa17/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.android.gms:play-services-safetynet:18.0.0] /home/spyman/.gradle/caches/transforms-3/2f30d5d3e958ef9b7463315d211928c0/transformed/jetified-play-services-safetynet-18.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:18.0.0] /home/spyman/.gradle/caches/transforms-3/2f30d5d3e958ef9b7463315d211928c0/transformed/jetified-play-services-safetynet-18.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appcheck:16.1.1] /home/spyman/.gradle/caches/transforms-3/b8051d0897439b11f59a1c69e42dcf7e/transformed/jetified-firebase-appcheck-16.1.1/AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-appcheck:16.1.1] /home/spyman/.gradle/caches/transforms-3/b8051d0897439b11f59a1c69e42dcf7e/transformed/jetified-firebase-appcheck-16.1.1/AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.1] /home/spyman/.gradle/caches/transforms-3/08de5cfa6c1b0b1306c645ec0be89de4/transformed/jetified-firebase-appcheck-interop-16.1.1/AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.1] /home/spyman/.gradle/caches/transforms-3/08de5cfa6c1b0b1306c645ec0be89de4/transformed/jetified-firebase-appcheck-interop-16.1.1/AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/spyman/.gradle/caches/transforms-3/c7232b6ce4e188bed1222fb6e790465b/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/spyman/.gradle/caches/transforms-3/c7232b6ce4e188bed1222fb6e790465b/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/spyman/.gradle/caches/transforms-3/8ffc5025097db0a85dbfcff25ccb715a/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/spyman/.gradle/caches/transforms-3/8ffc5025097db0a85dbfcff25ccb715a/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-common:20.3.0] /home/spyman/.gradle/caches/transforms-3/5810757175fd30257219551b51df6a96/transformed/jetified-firebase-common-20.3.0/AndroidManifest.xml:24:5-37:19
 MERGED from [com.google.firebase:firebase-common:20.3.0] /home/spyman/.gradle/caches/transforms-3/5810757175fd30257219551b51df6a96/transformed/jetified-firebase-common-20.3.0/AndroidManifest.xml:24:5-37:19
-MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/spyman/.gradle/caches/transforms-3/6a298c891cbd6182182a281d641b5ec1/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/spyman/.gradle/caches/transforms-3/6a298c891cbd6182182a281d641b5ec1/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/spyman/.gradle/caches/transforms-3/04888688f0b7243035ab8e1a84f2c1d3/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/spyman/.gradle/caches/transforms-3/04888688f0b7243035ab8e1a84f2c1d3/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.play:integrity:1.0.1] /home/spyman/.gradle/caches/transforms-3/5cc9864de3a0e66f1884c3ee1f7aaefc/transformed/jetified-integrity-1.0.1/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.0.1] /home/spyman/.gradle/caches/transforms-3/5cc9864de3a0e66f1884c3ee1f7aaefc/transformed/jetified-integrity-1.0.1/AndroidManifest.xml:5:5-6:19
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/spyman/.gradle/caches/transforms-3/2abf910d60477a0fc593cab7cd654dd1/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/spyman/.gradle/caches/transforms-3/2abf910d60477a0fc593cab7cd654dd1/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/spyman/.gradle/caches/transforms-3/b98038a8bb5f558b05cc7fc73ca7ad87/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
@@ -35,16 +49,23 @@ INJECTED from /home/spyman/Desktop/learn_stream/android/app/src/main/AndroidMani
 INJECTED from /home/spyman/Desktop/learn_stream/android/app/src/main/AndroidManifest.xml:1:1-34:12
 INJECTED from /home/spyman/Desktop/learn_stream/android/app/src/main/AndroidManifest.xml:1:1-34:12
 MERGED from /home/spyman/Desktop/learn_stream/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from [:firebase_app_check] /home/spyman/Desktop/learn_stream/build/firebase_app_check/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
 MERGED from [:firebase_auth] /home/spyman/Desktop/learn_stream/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
 MERGED from [:firebase_core] /home/spyman/Desktop/learn_stream/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
 MERGED from [androidx.window:window-java:1.0.0-beta04] /home/spyman/.gradle/caches/transforms-3/4f8a10da11d41b9ccabff01515190014/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
 MERGED from [androidx.window:window:1.0.0-beta04] /home/spyman/.gradle/caches/transforms-3/fa8aad42c825af1f34f93ab9a34c8ecb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.firebase:firebase-appcheck-safetynet:16.1.1] /home/spyman/.gradle/caches/transforms-3/2c46b04d3544d29afa6e18083cfb8ab3/transformed/jetified-firebase-appcheck-safetynet-16.1.1/AndroidManifest.xml:15:1-33:12
+MERGED from [com.google.firebase:firebase-appcheck-debug:16.1.1] /home/spyman/.gradle/caches/transforms-3/16c707e2ab67f7eca6256f774449548b/transformed/jetified-firebase-appcheck-debug-16.1.1/AndroidManifest.xml:15:1-33:12
+MERGED from [com.google.firebase:firebase-appcheck-playintegrity:16.1.1] /home/spyman/.gradle/caches/transforms-3/8e5b72fffe01b9631e4ef01aabfcbcfa/transformed/jetified-firebase-appcheck-playintegrity-16.1.1/AndroidManifest.xml:15:1-33:12
 MERGED from [com.google.firebase:firebase-auth:21.1.0] /home/spyman/.gradle/caches/transforms-3/873b6a3b46f87d14a5a2960c486caa17/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:17:1-73:12
+MERGED from [com.google.android.gms:play-services-safetynet:18.0.0] /home/spyman/.gradle/caches/transforms-3/2f30d5d3e958ef9b7463315d211928c0/transformed/jetified-play-services-safetynet-18.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appcheck:16.1.1] /home/spyman/.gradle/caches/transforms-3/b8051d0897439b11f59a1c69e42dcf7e/transformed/jetified-firebase-appcheck-16.1.1/AndroidManifest.xml:15:1-33:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/spyman/.gradle/caches/transforms-3/b7dd2676f7144db504510e8969da0e8a/transformed/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.1] /home/spyman/.gradle/caches/transforms-3/08de5cfa6c1b0b1306c645ec0be89de4/transformed/jetified-firebase-appcheck-interop-16.1.1/AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/spyman/.gradle/caches/transforms-3/c7232b6ce4e188bed1222fb6e790465b/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/spyman/.gradle/caches/transforms-3/8ffc5025097db0a85dbfcff25ccb715a/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.firebase:firebase-common:20.3.0] /home/spyman/.gradle/caches/transforms-3/5810757175fd30257219551b51df6a96/transformed/jetified-firebase-common-20.3.0/AndroidManifest.xml:15:1-39:12
-MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/spyman/.gradle/caches/transforms-3/b7dd2676f7144db504510e8969da0e8a/transformed/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/spyman/.gradle/caches/transforms-3/6a298c891cbd6182182a281d641b5ec1/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/spyman/.gradle/caches/transforms-3/04888688f0b7243035ab8e1a84f2c1d3/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.play:integrity:1.0.1] /home/spyman/.gradle/caches/transforms-3/5cc9864de3a0e66f1884c3ee1f7aaefc/transformed/jetified-integrity-1.0.1/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/spyman/.gradle/caches/transforms-3/2abf910d60477a0fc593cab7cd654dd1/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/spyman/.gradle/caches/transforms-3/b98038a8bb5f558b05cc7fc73ca7ad87/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
 MERGED from [androidx.fragment:fragment:1.1.0] /home/spyman/.gradle/caches/transforms-3/392bc883a371b75d457d91422b1fe39d/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
@@ -59,8 +80,8 @@ MERGED from [androidx.savedstate:savedstate:1.0.0] /home/spyman/.gradle/caches/t
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/spyman/.gradle/caches/transforms-3/175e6568d26a2ca8f2fcb6f3d9344d5f/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/spyman/.gradle/caches/transforms-3/69c89cbb33788ff433938caf26c0f4a9/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.tracing:tracing:1.0.0] /home/spyman/.gradle/caches/transforms-3/ef1453fc09d97d48a387e3347ce85266/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/spyman/.gradle/caches/transforms-3/c4f101127aac5839f4ec928050467c19/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-components:17.1.0] /home/spyman/.gradle/caches/transforms-3/aeb1e9f90f90a90e9bfc5da3a27db7c6/transformed/jetified-firebase-components-17.1.0/AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/spyman/.gradle/caches/transforms-3/c4f101127aac5839f4ec928050467c19/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/spyman/.gradle/caches/transforms-3/8823ba16c0a64b68969669625d706882/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/spyman/.gradle/caches/transforms-3/dec4873f746490e203b726d7090bd4b8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /home/spyman/.gradle/caches/transforms-3/7dad6054ff547c9ccb911d6811560768/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -87,6 +108,8 @@ uses-sdk
 INJECTED from /home/spyman/Desktop/learn_stream/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/spyman/Desktop/learn_stream/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/spyman/Desktop/learn_stream/android/app/src/main/AndroidManifest.xml
+MERGED from [:firebase_app_check] /home/spyman/Desktop/learn_stream/build/firebase_app_check/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_app_check] /home/spyman/Desktop/learn_stream/build/firebase_app_check/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:firebase_auth] /home/spyman/Desktop/learn_stream/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:firebase_auth] /home/spyman/Desktop/learn_stream/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:firebase_core] /home/spyman/Desktop/learn_stream/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
@@ -95,18 +118,30 @@ MERGED from [androidx.window:window-java:1.0.0-beta04] /home/spyman/.gradle/cach
 MERGED from [androidx.window:window-java:1.0.0-beta04] /home/spyman/.gradle/caches/transforms-3/4f8a10da11d41b9ccabff01515190014/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window:1.0.0-beta04] /home/spyman/.gradle/caches/transforms-3/fa8aad42c825af1f34f93ab9a34c8ecb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.window:window:1.0.0-beta04] /home/spyman/.gradle/caches/transforms-3/fa8aad42c825af1f34f93ab9a34c8ecb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-appcheck-safetynet:16.1.1] /home/spyman/.gradle/caches/transforms-3/2c46b04d3544d29afa6e18083cfb8ab3/transformed/jetified-firebase-appcheck-safetynet-16.1.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-safetynet:16.1.1] /home/spyman/.gradle/caches/transforms-3/2c46b04d3544d29afa6e18083cfb8ab3/transformed/jetified-firebase-appcheck-safetynet-16.1.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-debug:16.1.1] /home/spyman/.gradle/caches/transforms-3/16c707e2ab67f7eca6256f774449548b/transformed/jetified-firebase-appcheck-debug-16.1.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-debug:16.1.1] /home/spyman/.gradle/caches/transforms-3/16c707e2ab67f7eca6256f774449548b/transformed/jetified-firebase-appcheck-debug-16.1.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-playintegrity:16.1.1] /home/spyman/.gradle/caches/transforms-3/8e5b72fffe01b9631e4ef01aabfcbcfa/transformed/jetified-firebase-appcheck-playintegrity-16.1.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-playintegrity:16.1.1] /home/spyman/.gradle/caches/transforms-3/8e5b72fffe01b9631e4ef01aabfcbcfa/transformed/jetified-firebase-appcheck-playintegrity-16.1.1/AndroidManifest.xml:18:5-20:41
 MERGED from [com.google.firebase:firebase-auth:21.1.0] /home/spyman/.gradle/caches/transforms-3/873b6a3b46f87d14a5a2960c486caa17/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:21:5-44
 MERGED from [com.google.firebase:firebase-auth:21.1.0] /home/spyman/.gradle/caches/transforms-3/873b6a3b46f87d14a5a2960c486caa17/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:18.0.0] /home/spyman/.gradle/caches/transforms-3/2f30d5d3e958ef9b7463315d211928c0/transformed/jetified-play-services-safetynet-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:18.0.0] /home/spyman/.gradle/caches/transforms-3/2f30d5d3e958ef9b7463315d211928c0/transformed/jetified-play-services-safetynet-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appcheck:16.1.1] /home/spyman/.gradle/caches/transforms-3/b8051d0897439b11f59a1c69e42dcf7e/transformed/jetified-firebase-appcheck-16.1.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck:16.1.1] /home/spyman/.gradle/caches/transforms-3/b8051d0897439b11f59a1c69e42dcf7e/transformed/jetified-firebase-appcheck-16.1.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/spyman/.gradle/caches/transforms-3/b7dd2676f7144db504510e8969da0e8a/transformed/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/spyman/.gradle/caches/transforms-3/b7dd2676f7144db504510e8969da0e8a/transformed/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.1] /home/spyman/.gradle/caches/transforms-3/08de5cfa6c1b0b1306c645ec0be89de4/transformed/jetified-firebase-appcheck-interop-16.1.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.1] /home/spyman/.gradle/caches/transforms-3/08de5cfa6c1b0b1306c645ec0be89de4/transformed/jetified-firebase-appcheck-interop-16.1.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/spyman/.gradle/caches/transforms-3/c7232b6ce4e188bed1222fb6e790465b/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/spyman/.gradle/caches/transforms-3/c7232b6ce4e188bed1222fb6e790465b/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/spyman/.gradle/caches/transforms-3/8ffc5025097db0a85dbfcff25ccb715a/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/spyman/.gradle/caches/transforms-3/8ffc5025097db0a85dbfcff25ccb715a/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-common:20.3.0] /home/spyman/.gradle/caches/transforms-3/5810757175fd30257219551b51df6a96/transformed/jetified-firebase-common-20.3.0/AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-common:20.3.0] /home/spyman/.gradle/caches/transforms-3/5810757175fd30257219551b51df6a96/transformed/jetified-firebase-common-20.3.0/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/spyman/.gradle/caches/transforms-3/b7dd2676f7144db504510e8969da0e8a/transformed/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/spyman/.gradle/caches/transforms-3/b7dd2676f7144db504510e8969da0e8a/transformed/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/spyman/.gradle/caches/transforms-3/6a298c891cbd6182182a281d641b5ec1/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/spyman/.gradle/caches/transforms-3/6a298c891cbd6182182a281d641b5ec1/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/spyman/.gradle/caches/transforms-3/04888688f0b7243035ab8e1a84f2c1d3/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/spyman/.gradle/caches/transforms-3/04888688f0b7243035ab8e1a84f2c1d3/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.play:integrity:1.0.1] /home/spyman/.gradle/caches/transforms-3/5cc9864de3a0e66f1884c3ee1f7aaefc/transformed/jetified-integrity-1.0.1/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.0.1] /home/spyman/.gradle/caches/transforms-3/5cc9864de3a0e66f1884c3ee1f7aaefc/transformed/jetified-integrity-1.0.1/AndroidManifest.xml:4:5-44
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/spyman/.gradle/caches/transforms-3/2abf910d60477a0fc593cab7cd654dd1/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/spyman/.gradle/caches/transforms-3/2abf910d60477a0fc593cab7cd654dd1/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/spyman/.gradle/caches/transforms-3/b98038a8bb5f558b05cc7fc73ca7ad87/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
@@ -135,10 +170,10 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/spyman/.gra
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/spyman/.gradle/caches/transforms-3/69c89cbb33788ff433938caf26c0f4a9/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.tracing:tracing:1.0.0] /home/spyman/.gradle/caches/transforms-3/ef1453fc09d97d48a387e3347ce85266/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.tracing:tracing:1.0.0] /home/spyman/.gradle/caches/transforms-3/ef1453fc09d97d48a387e3347ce85266/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/spyman/.gradle/caches/transforms-3/c4f101127aac5839f4ec928050467c19/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/spyman/.gradle/caches/transforms-3/c4f101127aac5839f4ec928050467c19/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-components:17.1.0] /home/spyman/.gradle/caches/transforms-3/aeb1e9f90f90a90e9bfc5da3a27db7c6/transformed/jetified-firebase-components-17.1.0/AndroidManifest.xml:18:5-20:41
 MERGED from [com.google.firebase:firebase-components:17.1.0] /home/spyman/.gradle/caches/transforms-3/aeb1e9f90f90a90e9bfc5da3a27db7c6/transformed/jetified-firebase-components-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/spyman/.gradle/caches/transforms-3/c4f101127aac5839f4ec928050467c19/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/spyman/.gradle/caches/transforms-3/c4f101127aac5839f4ec928050467c19/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/spyman/.gradle/caches/transforms-3/8823ba16c0a64b68969669625d706882/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/spyman/.gradle/caches/transforms-3/8823ba16c0a64b68969669625d706882/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/spyman/.gradle/caches/transforms-3/dec4873f746490e203b726d7090bd4b8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
@@ -164,21 +199,37 @@ MERGED from [com.google.firebase:firebase-auth:21.1.0] /home/spyman/.gradle/cach
 	android:name
 		ADDED from /home/spyman/Desktop/learn_stream/android/app/src/debug/AndroidManifest.xml:7:22-64
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:firebase_auth] /home/spyman/Desktop/learn_stream/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
+ADDED from [:firebase_app_check] /home/spyman/Desktop/learn_stream/build/firebase_app_check/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_auth] /home/spyman/Desktop/learn_stream/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_auth] /home/spyman/Desktop/learn_stream/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
 MERGED from [:firebase_core] /home/spyman/Desktop/learn_stream/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
 MERGED from [:firebase_core] /home/spyman/Desktop/learn_stream/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
+MERGED from [com.google.firebase:firebase-appcheck-safetynet:16.1.1] /home/spyman/.gradle/caches/transforms-3/2c46b04d3544d29afa6e18083cfb8ab3/transformed/jetified-firebase-appcheck-safetynet-16.1.1/AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-appcheck-safetynet:16.1.1] /home/spyman/.gradle/caches/transforms-3/2c46b04d3544d29afa6e18083cfb8ab3/transformed/jetified-firebase-appcheck-safetynet-16.1.1/AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-appcheck-debug:16.1.1] /home/spyman/.gradle/caches/transforms-3/16c707e2ab67f7eca6256f774449548b/transformed/jetified-firebase-appcheck-debug-16.1.1/AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-appcheck-debug:16.1.1] /home/spyman/.gradle/caches/transforms-3/16c707e2ab67f7eca6256f774449548b/transformed/jetified-firebase-appcheck-debug-16.1.1/AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-appcheck-playintegrity:16.1.1] /home/spyman/.gradle/caches/transforms-3/8e5b72fffe01b9631e4ef01aabfcbcfa/transformed/jetified-firebase-appcheck-playintegrity-16.1.1/AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-appcheck-playintegrity:16.1.1] /home/spyman/.gradle/caches/transforms-3/8e5b72fffe01b9631e4ef01aabfcbcfa/transformed/jetified-firebase-appcheck-playintegrity-16.1.1/AndroidManifest.xml:24:9-30:19
 MERGED from [com.google.firebase:firebase-auth:21.1.0] /home/spyman/.gradle/caches/transforms-3/873b6a3b46f87d14a5a2960c486caa17/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:64:9-70:19
 MERGED from [com.google.firebase:firebase-auth:21.1.0] /home/spyman/.gradle/caches/transforms-3/873b6a3b46f87d14a5a2960c486caa17/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-appcheck:16.1.1] /home/spyman/.gradle/caches/transforms-3/b8051d0897439b11f59a1c69e42dcf7e/transformed/jetified-firebase-appcheck-16.1.1/AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-appcheck:16.1.1] /home/spyman/.gradle/caches/transforms-3/b8051d0897439b11f59a1c69e42dcf7e/transformed/jetified-firebase-appcheck-16.1.1/AndroidManifest.xml:24:9-30:19
 MERGED from [com.google.firebase:firebase-common:20.3.0] /home/spyman/.gradle/caches/transforms-3/5810757175fd30257219551b51df6a96/transformed/jetified-firebase-common-20.3.0/AndroidManifest.xml:32:9-36:35
 MERGED from [com.google.firebase:firebase-common:20.3.0] /home/spyman/.gradle/caches/transforms-3/5810757175fd30257219551b51df6a96/transformed/jetified-firebase-common-20.3.0/AndroidManifest.xml:32:9-36:35
 	android:exported
-		ADDED from [com.google.firebase:firebase-auth:21.1.0] /home/spyman/.gradle/caches/transforms-3/873b6a3b46f87d14a5a2960c486caa17/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:66:13-37
+		ADDED from [com.google.firebase:firebase-appcheck-safetynet:16.1.1] /home/spyman/.gradle/caches/transforms-3/2c46b04d3544d29afa6e18083cfb8ab3/transformed/jetified-firebase-appcheck-safetynet-16.1.1/AndroidManifest.xml:26:13-37
 	tools:targetApi
 		ADDED from [com.google.firebase:firebase-common:20.3.0] /home/spyman/.gradle/caches/transforms-3/5810757175fd30257219551b51df6a96/transformed/jetified-firebase-common-20.3.0/AndroidManifest.xml:36:13-32
 	android:directBootAware
 		ADDED from [com.google.firebase:firebase-common:20.3.0] /home/spyman/.gradle/caches/transforms-3/5810757175fd30257219551b51df6a96/transformed/jetified-firebase-common-20.3.0/AndroidManifest.xml:34:13-43
 	android:name
-		ADDED from [:firebase_auth] /home/spyman/Desktop/learn_stream/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:10:18-89
+		ADDED from [:firebase_app_check] /home/spyman/Desktop/learn_stream/build/firebase_app_check/intermediates/merged_manifest/debug/AndroidManifest.xml:10:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.appcheck.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_app_check] /home/spyman/Desktop/learn_stream/build/firebase_app_check/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [:firebase_app_check] /home/spyman/Desktop/learn_stream/build/firebase_app_check/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [:firebase_app_check] /home/spyman/Desktop/learn_stream/build/firebase_app_check/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-127
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar
 ADDED from [:firebase_auth] /home/spyman/Desktop/learn_stream/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
 	android:value
@@ -203,6 +254,24 @@ ADDED from [androidx.window:window:1.0.0-beta04] /home/spyman/.gradle/caches/tra
 		ADDED from [androidx.window:window:1.0.0-beta04] /home/spyman/.gradle/caches/transforms-3/fa8aad42c825af1f34f93ab9a34c8ecb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
 	android:name
 		ADDED from [androidx.window:window:1.0.0-beta04] /home/spyman/.gradle/caches/transforms-3/fa8aad42c825af1f34f93ab9a34c8ecb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.safetynet.FirebaseAppCheckSafetyNetRegistrar
+ADDED from [com.google.firebase:firebase-appcheck-safetynet:16.1.1] /home/spyman/.gradle/caches/transforms-3/2c46b04d3544d29afa6e18083cfb8ab3/transformed/jetified-firebase-appcheck-safetynet-16.1.1/AndroidManifest.xml:27:13-29:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck-safetynet:16.1.1] /home/spyman/.gradle/caches/transforms-3/2c46b04d3544d29afa6e18083cfb8ab3/transformed/jetified-firebase-appcheck-safetynet-16.1.1/AndroidManifest.xml:29:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck-safetynet:16.1.1] /home/spyman/.gradle/caches/transforms-3/2c46b04d3544d29afa6e18083cfb8ab3/transformed/jetified-firebase-appcheck-safetynet-16.1.1/AndroidManifest.xml:28:17-136
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.debug.FirebaseAppCheckDebugRegistrar
+ADDED from [com.google.firebase:firebase-appcheck-debug:16.1.1] /home/spyman/.gradle/caches/transforms-3/16c707e2ab67f7eca6256f774449548b/transformed/jetified-firebase-appcheck-debug-16.1.1/AndroidManifest.xml:27:13-29:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck-debug:16.1.1] /home/spyman/.gradle/caches/transforms-3/16c707e2ab67f7eca6256f774449548b/transformed/jetified-firebase-appcheck-debug-16.1.1/AndroidManifest.xml:29:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck-debug:16.1.1] /home/spyman/.gradle/caches/transforms-3/16c707e2ab67f7eca6256f774449548b/transformed/jetified-firebase-appcheck-debug-16.1.1/AndroidManifest.xml:28:17-128
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.playintegrity.FirebaseAppCheckPlayIntegrityRegistrar
+ADDED from [com.google.firebase:firebase-appcheck-playintegrity:16.1.1] /home/spyman/.gradle/caches/transforms-3/8e5b72fffe01b9631e4ef01aabfcbcfa/transformed/jetified-firebase-appcheck-playintegrity-16.1.1/AndroidManifest.xml:27:13-29:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck-playintegrity:16.1.1] /home/spyman/.gradle/caches/transforms-3/8e5b72fffe01b9631e4ef01aabfcbcfa/transformed/jetified-firebase-appcheck-playintegrity-16.1.1/AndroidManifest.xml:29:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck-playintegrity:16.1.1] /home/spyman/.gradle/caches/transforms-3/8e5b72fffe01b9631e4ef01aabfcbcfa/transformed/jetified-firebase-appcheck-playintegrity-16.1.1/AndroidManifest.xml:28:17-144
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-auth:21.1.0] /home/spyman/.gradle/caches/transforms-3/873b6a3b46f87d14a5a2960c486caa17/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:24:5-79
 	android:name
@@ -261,6 +330,20 @@ ADDED from [com.google.firebase:firebase-auth:21.1.0] /home/spyman/.gradle/cache
 		ADDED from [com.google.firebase:firebase-auth:21.1.0] /home/spyman/.gradle/caches/transforms-3/873b6a3b46f87d14a5a2960c486caa17/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:69:17-82
 	android:name
 		ADDED from [com.google.firebase:firebase-auth:21.1.0] /home/spyman/.gradle/caches/transforms-3/873b6a3b46f87d14a5a2960c486caa17/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:68:17-109
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckRegistrar
+ADDED from [com.google.firebase:firebase-appcheck:16.1.1] /home/spyman/.gradle/caches/transforms-3/b8051d0897439b11f59a1c69e42dcf7e/transformed/jetified-firebase-appcheck-16.1.1/AndroidManifest.xml:27:13-29:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck:16.1.1] /home/spyman/.gradle/caches/transforms-3/b8051d0897439b11f59a1c69e42dcf7e/transformed/jetified-firebase-appcheck-16.1.1/AndroidManifest.xml:29:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck:16.1.1] /home/spyman/.gradle/caches/transforms-3/b8051d0897439b11f59a1c69e42dcf7e/transformed/jetified-firebase-appcheck-16.1.1/AndroidManifest.xml:28:17-117
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/spyman/.gradle/caches/transforms-3/c7232b6ce4e188bed1222fb6e790465b/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/spyman/.gradle/caches/transforms-3/c7232b6ce4e188bed1222fb6e790465b/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/spyman/.gradle/caches/transforms-3/c7232b6ce4e188bed1222fb6e790465b/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/spyman/.gradle/caches/transforms-3/c7232b6ce4e188bed1222fb6e790465b/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
 provider#com.google.firebase.provider.FirebaseInitProvider
 ADDED from [com.google.firebase:firebase-common:20.3.0] /home/spyman/.gradle/caches/transforms-3/5810757175fd30257219551b51df6a96/transformed/jetified-firebase-common-20.3.0/AndroidManifest.xml:25:9-30:39
 	android:authorities
@@ -273,14 +356,6 @@ ADDED from [com.google.firebase:firebase-common:20.3.0] /home/spyman/.gradle/cac
 		ADDED from [com.google.firebase:firebase-common:20.3.0] /home/spyman/.gradle/caches/transforms-3/5810757175fd30257219551b51df6a96/transformed/jetified-firebase-common-20.3.0/AndroidManifest.xml:30:13-36
 	android:name
 		ADDED from [com.google.firebase:firebase-common:20.3.0] /home/spyman/.gradle/caches/transforms-3/5810757175fd30257219551b51df6a96/transformed/jetified-firebase-common-20.3.0/AndroidManifest.xml:26:13-77
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/spyman/.gradle/caches/transforms-3/04888688f0b7243035ab8e1a84f2c1d3/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/spyman/.gradle/caches/transforms-3/04888688f0b7243035ab8e1a84f2c1d3/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/spyman/.gradle/caches/transforms-3/04888688f0b7243035ab8e1a84f2c1d3/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
-	android:name
-		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/spyman/.gradle/caches/transforms-3/04888688f0b7243035ab8e1a84f2c1d3/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
 meta-data#com.google.android.gms.version
 ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/spyman/.gradle/caches/transforms-3/b98038a8bb5f558b05cc7fc73ca7ad87/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
 	android:value
